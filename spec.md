@@ -1,5 +1,5 @@
 # Bài nộp LAB5 — T4 Thương mại điện tử · Nhóm JH
-**Lớp:** L3A · **Track:** T4 — Thương mại điện tử · **Nhóm:** JH
+**Lớp:** L3A · **Bàn:** 6 · **Zone:** 2 · **Track:** T4 — Thương mại điện tử · **Nhóm:** JH
 
 ## Thành viên và phân công
 
